@@ -1,5 +1,6 @@
 ---
-title: "Mi sitio"
+title: "Index"
+nav_order: 1
 ---
-# ¡Hola!
+# Index!
 Esta página está escrita en **Markdown** y yo soy *Iván Corrales Solera*.
