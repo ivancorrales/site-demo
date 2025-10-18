@@ -1,6 +1,5 @@
 ---
 title: "Inicio"
-nav_order: 1
 ---
 
 {% include nav.md %}
