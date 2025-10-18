@@ -1,5 +1,5 @@
 title: Sitio de Iván Corrales
-remote_theme: pages-themes/midnight
+remote_theme: pages-themes/hacker
 plugins:
   - jekyll-remote-theme
 
