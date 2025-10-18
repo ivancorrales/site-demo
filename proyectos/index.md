@@ -1,8 +1,9 @@
 ---
 title: "Proyectos"
-nav_order: 1
-has_children: true
+permalink: /proyectos/
 ---
+
+{% include nav.md %}
 
 # Proyectos
 Índice de contenidos de la guía.

@@ -1,8 +1,9 @@
 ---
 title: "Actividad 2"
-parent: "Proyectos"
-nav_order: 2
+permalink: /proyectos/actividad-2
 ---
+
+{% include nav.md %}
 
 # Actividad 2
 Pasos de instalación…

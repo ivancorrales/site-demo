@@ -9,3 +9,5 @@ search_enabled: true
 aux_links:
   "Repositorio":
     - "https://github.com/usuario/REPO"
+
+navigation:
