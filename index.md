@@ -1,6 +1,9 @@
 ---
-title: "Index"
+title: "Inicio"
 nav_order: 1
 ---
-# Index!
-Esta página está escrita en **Markdown** y yo soy *Iván Corrales Solera*.
+
+# Bienvenido
+Portada del sitio. Usa el menú lateral para navegar.
+
+Accesos rápidos: [Guía]({{ "/docs/proyectos/" | relative_url }})
