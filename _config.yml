@@ -1,3 +1,8 @@
-theme: jekyll-theme-architect
 title: Sitio de Iván Corrales
-description: Mantente actualizado
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# Si publicas en https://usuario.github.io/site-demo<
+baseurl: "/site-demo"   # quítalo o déjalo vacío si tu sitio es <usuario>.github.io
+search_enabled: true
