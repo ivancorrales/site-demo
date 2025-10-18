@@ -1,13 +1,13 @@
 title: Sitio de Iván Corrales
-remote_theme: pages-themes/hacker
+remote_theme: benbalter/retlab
 plugins:
   - jekyll-remote-theme
+
+
 
 # Si publicas en https://usuario.github.io/site-demo<
 baseurl: "/site-demo"   # quítalo o déjalo vacío si tu sitio es <usuario>.github.io
 search_enabled: true
-aux_links:
-  "Repositorio":
-    - "https://github.com/usuario/REPO"
-
-navigation:
+nav_pages:
+  - index.md
+  - proyectos/index.md
